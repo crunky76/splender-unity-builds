@@ -1,0 +1,14 @@
+{
+    "gameId": "turn-up",
+    "loaderUrl": "Build/turn-up.loader.js",
+    "dataUrl": "Build/turn-up.data.unityweb",
+    "frameworkUrl": "Build/turn-up.framework.js.unityweb",
+    "codeUrl": "Build/turn-up.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "turn-up",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-09-29T06:10:56.1672980Z",
+    "sourceHash": "e759a69082663c8604cddd8bfa21bb3212eb4b780b4321ca29f1e2cc81948c2e",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/turn-up/e759a69082663c8604cddd8bfa21bb3212eb4b780b4321ca29f1e2cc81948c2e/"
+}

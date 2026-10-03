@@ -1,0 +1,14 @@
+{
+    "gameId": "mars",
+    "loaderUrl": "Build/mars.loader.js",
+    "dataUrl": "Build/mars.data.unityweb",
+    "frameworkUrl": "Build/mars.framework.js.unityweb",
+    "codeUrl": "Build/mars.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "mars",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-10-03T00:46:27.7686890Z",
+    "sourceHash": "d48e0f0195dccc7686ed26556ef81cdb6e3a10e0d9d2b279317b754aa3b1755b",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/mars/d48e0f0195dccc7686ed26556ef81cdb6e3a10e0d9d2b279317b754aa3b1755b/"
+}
