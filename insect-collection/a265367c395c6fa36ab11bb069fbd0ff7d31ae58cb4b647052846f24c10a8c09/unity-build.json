@@ -1,0 +1,14 @@
+{
+    "gameId": "insect-collection",
+    "loaderUrl": "Build/insect-collection.loader.js",
+    "dataUrl": "Build/insect-collection.data.unityweb",
+    "frameworkUrl": "Build/insect-collection.framework.js.unityweb",
+    "codeUrl": "Build/insect-collection.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "insect-collection",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-10-14T08:17:02.9117170Z",
+    "sourceHash": "a265367c395c6fa36ab11bb069fbd0ff7d31ae58cb4b647052846f24c10a8c09",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/insect-collection/a265367c395c6fa36ab11bb069fbd0ff7d31ae58cb4b647052846f24c10a8c09/"
+}
