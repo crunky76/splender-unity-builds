@@ -1,0 +1,14 @@
+{
+    "gameId": "unity-lab",
+    "loaderUrl": "Build/unity-lab.loader.js",
+    "dataUrl": "Build/unity-lab.data.unityweb",
+    "frameworkUrl": "Build/unity-lab.framework.js.unityweb",
+    "codeUrl": "Build/unity-lab.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "unity-lab",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-10-14T08:13:39.5565060Z",
+    "sourceHash": "a2f08d79512a8799d020015a4675a3df4c0385c3553f7c3caca59c0d067de514",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/unity-lab/a2f08d79512a8799d020015a4675a3df4c0385c3553f7c3caca59c0d067de514/"
+}
