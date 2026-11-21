@@ -1,0 +1,14 @@
+{
+    "gameId": "rhythm",
+    "loaderUrl": "Build/rhythm.loader.js",
+    "dataUrl": "Build/rhythm.data.unityweb",
+    "frameworkUrl": "Build/rhythm.framework.js.unityweb",
+    "codeUrl": "Build/rhythm.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "rhythm",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-11-21T11:45:05.0023300Z",
+    "sourceHash": "df54d0827dc4de01108f25a43f65932c7e3c6ebb56037d9593a89ac5afdb091b",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/rhythm/df54d0827dc4de01108f25a43f65932c7e3c6ebb56037d9593a89ac5afdb091b/"
+}
