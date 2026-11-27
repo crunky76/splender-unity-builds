@@ -1,0 +1,14 @@
+{
+    "gameId": "arcade",
+    "loaderUrl": "Build/arcade.loader.js",
+    "dataUrl": "Build/arcade.data.unityweb",
+    "frameworkUrl": "Build/arcade.framework.js.unityweb",
+    "codeUrl": "Build/arcade.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "arcade",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-11-26T20:14:46.5596600Z",
+    "sourceHash": "a43ec5e6c93cbd6d2bf63f9193400a2f799e952b1b8a41bc6d03b2ff8f245ee5",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/arcade/a43ec5e6c93cbd6d2bf63f9193400a2f799e952b1b8a41bc6d03b2ff8f245ee5/"
+}

@@ -1,0 +1,14 @@
+{
+    "gameId": "mixy",
+    "loaderUrl": "Build/mixy.loader.js",
+    "dataUrl": "Build/mixy.data.unityweb",
+    "frameworkUrl": "Build/mixy.framework.js.unityweb",
+    "codeUrl": "Build/mixy.wasm.unityweb",
+    "companyName": "DefaultCompany",
+    "productName": "mixy",
+    "productVersion": "1.0",
+    "unityVersion": "6000.6.3f1",
+    "builtAt": "2026-09-29T02:43:45.5363620Z",
+    "sourceHash": "906bad81e4e3b29786eebf7fbe184397b6c1a0084b85e362b506d1521686df3a",
+    "cdnBase": "https://crunky76.github.io/splender-unity-builds/mixy/906bad81e4e3b29786eebf7fbe184397b6c1a0084b85e362b506d1521686df3a/"
+}
